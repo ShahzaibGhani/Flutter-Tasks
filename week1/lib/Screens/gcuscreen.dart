@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class gcuscreen extends StatelessWidget {
-  const gcuscreen({super.key});
+class gcuScreen extends StatelessWidget {
+  const gcuScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
